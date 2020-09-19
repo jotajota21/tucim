@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ SD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s320/GLOBO.png" group-title="GLOBO",GLOBO RJ SD
+http://alfadelta.online:8080/Mar123/Mar123/98258
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s320/GLOBO.png" group-title="GLOBO",GLOBO RJ HD
+http://alfadelta.online:8080/Mar123/Mar123/98259
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD²" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s320/GLOBO.png" group-title="GLOBO",GLOBO RJ HD²
+http://alfadelta.online:8080/Mar123/Mar123/98260
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ FULL HD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s320/GLOBO.png" group-title="GLOBO",GLOBO RJ FULL HD
+http://alfadelta.online:8080/Mar123/Mar123/98261
